@@ -1,0 +1,42 @@
+# Binaries
+opus-api
+*.exe
+*.dll
+opus-api
+*.so
+*.dylib
+opus-api.tar
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Logs
+logs/
+*.log
+server.log
+nohup.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go workspace file
+go.work
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Build artifacts
+dist/
+build/
